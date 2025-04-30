@@ -7,13 +7,11 @@
 
 ## 🏅 Badges
 
-<a>
+<p align="left">
   <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="120"/>
-</a>
-
-<a>
   <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120"/>
-</a>
+</p>
+
 
 
 
