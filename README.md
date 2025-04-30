@@ -58,6 +58,3 @@
 
 ---
 
-
-<img src="https://raw.githubusercontent.com/Guman-Rajpurohit/Guman-Rajpurohit/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-
