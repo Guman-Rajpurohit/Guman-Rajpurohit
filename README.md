@@ -7,11 +7,9 @@
 
 ## 🏅 Badges
 
-### 🛡️ Introduction to Cybersecurity – Cisco  
-[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/4c5f93ed-d3e8-4901-bcaf-7e94d79e6c8c/image.png)](https://www.credly.com/badges/c744e9c1-c519-47cd-b366-d760794d6291/public_url)
 
-### 🕵️ Ethical Hacker – Cisco  
-[![Ethical Hacker](https://images.credly.com/size/110x110/images/59f6c486-df45-4cf8-8c6e-74c73dc4109d/image.png)](https://www.credly.com/badges/c3ac32f8-e666-40cd-9c66-b5b044310754/public_url)
+![Ethical Hacker – Cisco](https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)
+![Introduction to Cybersecurity – Cisco](https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)
 
 
 
