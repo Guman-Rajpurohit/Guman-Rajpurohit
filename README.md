@@ -1,27 +1,23 @@
-# Guman Rajpurohit - Cybersecurity Enthusiast & Developer 🔐💻
+# 👋 Hello, I'm Rajpurohit Gumansinh Malumsinh
 
-Hello! I'm **Guman Rajpurohit**. I have completed a **Diploma in Cyber Law** 🎓 and hold multiple certifications 🏅 in cybersecurity. I specialize in vulnerability scanning, web security, ethical hacking, and **Cyber Forensics** 🕵️‍♂️. Currently, I am diving deeper into **Cyber Forensics** and expanding my knowledge in this exciting field. 🚀
+🚀 Aspiring Cybersecurity Expert | MCA in Cyber Security  
+🛡️ Bug Hunter | Vulnerability Researcher | Networking Enthusiast  
+📜 Diploma in Cyber Law  
+🏆 Tesla Hall of Fame | ChatGPT Hall of Fame | NASA (pending)
 
-## 🌟 Achievements
+## 🏅 Badges
 
-- Reported critical vulnerabilities in **Tesla** 🚗, **NASA** 🚀, and **many more** top-tier organizations through the **Bugcrowd** platform. 🕵️‍♂️
-- Helped organizations enhance their security posture by identifying and fixing vulnerabilities that could compromise their systems and data. 🔒
+[![Tesla Hall of Fame](https://your-link.com/tesla_badge.png)](https://example.com)
+[![Cybersecurity Researcher](https://img.shields.io/badge/Cybersecurity-Researcher-blue)](https://github.com/Guman-Rajpurohit)
 
-## 🛡️ Cybersecurity Expertise
+## 🔧 Tools & Skills
+- Web Exploitation, XSS, CSRF
+- Python, Bash, Linux
+- Burp Suite, Nmap, Wireshark
 
-- **Bug Bounty Hunting**: Actively contributing to platforms like **Bugcrowd**, where I've identified and reported vulnerabilities for organizations such as **Tesla**, **NASA**, and others. 🏆
-- **Vulnerability Scanning**: Specialized in scanning websites for vulnerabilities such as **SQL Injection** ⚠️, **XSS** 📝, **CSRF** 🔑, **Broken Authentication** 🔐, and **Sensitive Data Exposure** 💡.
-- **Cyber Forensics**: Currently working on learning the latest techniques in cyber forensics 🕵️‍♂️, focusing on digital evidence collection, analysis, and investigation.
-- **Security Audits**: Conducting comprehensive security audits to help organizations strengthen their defenses. 🔍
-- **Ethical Hacking**: Practicing ethical hacking to discover vulnerabilities before malicious actors can exploit them. 🛠️
-- **Web Application Security**: Strong understanding of **OWASP Top 10** vulnerabilities and proven strategies to mitigate them. 🛡️
+## 📂 Projects
+🔍 [WebGuard – Vulnerability Scanner](https://github.com/Guman-Rajpurohit/WebGuard)
 
-## 🧠 Skills
+---
 
-- Vulnerability Scanning & Reporting 🕵️‍♂️
-- Bug Bounty Hunting (Bugcrowd, and other platforms) 💥
-- Web Application Security (SQL Injection, XSS, CSRF, etc.) ⚡
-- **Cyber Forensics** & Digital Investigations 🕵️‍♂️
-- Front-End Development (HTML, CSS, JavaScript) 💻
-- UI Design 🎨
-- Cybersecurity Research & Development 🔬
+Would you like me to write your full GitHub `README.md` with your actual badge links and style it professionally? If yes, please share any image links or badge URLs you'd like included.
