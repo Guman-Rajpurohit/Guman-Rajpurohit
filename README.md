@@ -14,6 +14,7 @@
 [![Ethical Hacker](https://images.credly.com/size/110x110/images/59f6c486-df45-4cf8-8c6e-74c73dc4109d/image.png)](https://www.credly.com/badges/c3ac32f8-e666-40cd-9c66-b5b044310754/public_url)
 
 
+
 ## 🔧 Tools & Skills
 - Web Exploitation, XSS, CSRF
 - Python, Bash, Linux
