@@ -7,8 +7,12 @@
 
 ## 🏅 Badges
 
-[![Tesla Hall of Fame](https://your-link.com/tesla_badge.png)](https://example.com)
-[![Cybersecurity Researcher](https://img.shields.io/badge/Cybersecurity-Researcher-blue)](https://github.com/Guman-Rajpurohit)
+### 🛡️ Introduction to Cybersecurity – Cisco  
+[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/4c5f93ed-d3e8-4901-bcaf-7e94d79e6c8c/image.png)](https://www.credly.com/badges/c744e9c1-c519-47cd-b366-d760794d6291/public_url)
+
+### 🕵️ Ethical Hacker – Cisco  
+[![Ethical Hacker](https://images.credly.com/size/110x110/images/59f6c486-df45-4cf8-8c6e-74c73dc4109d/image.png)](https://www.credly.com/badges/c3ac32f8-e666-40cd-9c66-b5b044310754/public_url)
+
 
 ## 🔧 Tools & Skills
 - Web Exploitation, XSS, CSRF
