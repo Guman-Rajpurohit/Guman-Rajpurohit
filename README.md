@@ -27,6 +27,7 @@
 </div>
   <img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="100" alt="Cyber Threat Management – Cisco"/>
 </div>
+
 ---
 
 ## 🧰 Tools & Skills
