@@ -40,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
 </div>
 
+---
+
 - Web Exploitation (XSS, CSRF, HTML Injection)  
 - Burp Suite, Nmap, Wireshark  
 - Vulnerability Assessment & Ethical Hacking
