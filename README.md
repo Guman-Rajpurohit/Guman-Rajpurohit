@@ -44,7 +44,7 @@
 
 - Web Exploitation (XSS, CSRF, HTML Injection)  
 - Burp Suite, Nmap, Wireshark  
-- Vulnerability Assessment & Ethical Hacking
+- Vulnerability Assessment & Bug Hunter
 
 ---
 
