@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Guman Rajpurohit</h1>
 
 <h3 align="center">
-🚀 Aspiring Cybersecurity Expert • 🛡️ Penetration Tester • 🐞 Bug Hunter  
+🚀 Aspiring Cybersecurity • 🛡️ Penetration Tester • 🐞 Bug Hunter  
 🎓 MCA in Cyber Security | 📜 Diploma in Cyber Law  
 </h3>
 
