@@ -49,9 +49,8 @@
 
 ## 🚀 Featured Projects
 
-- [**FACEHEX**](https://github.com/Guman-Rajpurohit/facehex) – Real-time Face Swap App (PyQt5 + Flask + GPU Support)  
-- [**Bug Bounty Writeups**](https://github.com/Guman-Rajpurohit/bug-bounty-writeups) – My findings & learnings in bug hunting  
-
+- [**FACEHEX**](https://github.com/Guman-Rajpurohit/facehex) – Real-time Face Swap App (PyQt5 + Flask + GPU Support)
+- 
 ---
 
 ## 📈 GitHub Stats
@@ -71,9 +70,6 @@
   </a>
   <a href="https://www.linkedin.com/in/guman-rajpurohit/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://github.com/Guman-Rajpurohit" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub Profile&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
   </a>
   <a href="https://www.bugcrowd.com" target="_blank">
     <img src="https://www.bugcrowd.com/wp-content/themes/bugcrowd/assets/images/favicon/favicon-32x32.png" height="35"/>
