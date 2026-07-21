@@ -104,8 +104,15 @@ I am a Cybersecurity Researcher specializing in offensive security, penetration 
 
 <br><br>
 
-> *Security is a continuous process of learning, research, and ethical responsibility.*
+ *Security is a continuous process of learning, research, and ethical responsibility.*
 
+<br><br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=2563EB&center=true&vCenter=true&width=850&lines=%3E_Initializing+security+protocols...;%3E_Executing+vulnerability+assessment...;%3E_Hunting+for+critical+exploits...;%3E_Advancing+secure+AI+architectures...;%3E_System+secured." alt="Terminal Typing Loop" />
+</div>
+<br><br>
+<br><br>
+<br><br>
 © 2026 Guman Rajpurohit
-
 </div>
