@@ -2,6 +2,8 @@
 
 ![Header Background](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=Guman%20Rajpurohit&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
+[![Sponsor Guman-Rajpurohit](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Guman-Rajpurohit)
+
 ## Cybersecurity Researcher | Penetration Tester | Security Engineer
 
 **[Portfolio Website: guman.qzz.io](https://guman.qzz.io/)**
