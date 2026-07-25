@@ -56,7 +56,7 @@ I am a Cybersecurity Researcher specializing in offensive security, penetration 
 
 ---
 
-### TECHNICAL ARCHITECTURE.
+### TECHNICAL ARCHITECTURE
 
 <br>
 
