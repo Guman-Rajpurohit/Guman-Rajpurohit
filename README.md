@@ -1,120 +1,80 @@
 <div align="center">
 
-![Header Background](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=Guman%20Rajpurohit&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+![Header Background](https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0F172A,100:000000&height=220&section=header&text=Guman%20Rajpurohit&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
-[![Sponsor Guman-Rajpurohit](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Guman-Rajpurohit)
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Guman-Rajpurohit)
 
-## Cybersecurity Researcher | Penetration Tester | Security Engineer
+## // SEQUENCE INITIATED
 
-**[Portfolio Website: guman.qzz.io](https://guman.qzz.io/)**
-
-<br>
-
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=2000&center=true&vCenter=true&width=850&lines=Cybersecurity+Researcher;Penetration+Tester;Bug+Bounty+Hunter;Web+Application+Security;Android+Security;AI+Security+Research)
+**[ 0x01: guman.qzz.io ](https://guman.qzz.io/)**
 
 <br>
 
-[![Domain: Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-050505?style=for-the-badge)](#)
-[![Focus: Vulnerability Research](https://img.shields.io/badge/Focus-Vulnerability_Research-050505?style=for-the-badge)](#)
-[![Status: Active](https://img.shields.io/badge/Status-Active_Researcher-050505?style=for-the-badge)](#)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&pause=2000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Calibrating+matrices...;Rendering+geometries...;Synchronizing+orbital+data...;Processing+signal+noise...;Iteration+complete.)
+
+<br>
+
+[![State](https://img.shields.io/badge/State-Active-050505?style=for-the-badge)](#)
+[![Telemetry](https://img.shields.io/badge/Telemetry-Nominal-050505?style=for-the-badge)](#)
+[![Render](https://img.shields.io/badge/Render-60FPS_HDR-050505?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-### PROFESSIONAL SUMMARY
+### OVERVIEW
 
-I am a Cybersecurity Researcher specializing in offensive security, penetration testing, vulnerability assessment, and responsible disclosure. My core focus is identifying critical real-world security vulnerabilities and advancing practical cybersecurity through research, automation, and secure architecture analysis.
-
-**Core Specialties:**
-* Web Application Security
-* Android Security Architecture
-* Offensive Security Operations
-* Artificial Intelligence Security Research
-* Security Automation & Tooling
-* Advanced Vulnerability Research
+A continuous loop of structural compilation and spatial processing. The architecture relies on high-fidelity visual scaling, asynchronous data streams, and the seamless integration of kinetic interactions. Parameters are configured strictly to observe system behavior and output under defined dimensional constraints.
 
 ---
 
-### PROFESSIONAL RECOGNITION
+### VERIFIED INTERSECTIONS
 
-| Organization | Recognition |
+| Node | Alignment Status |
 | :--- | :--- |
-| **Apple** | Apple Security Hall of Fame |
-| **Tesla** | Tesla Security Hall of Fame |
-| **Mercedes-Benz** | Security Acknowledgment & Hall of Fame |
-| **NASA** | Official Letter of Recognition |
+| **Apple** | Signature Verified |
+| **Tesla** | Telemetry Confirmed |
+| **Mercedes-Benz** | Sequence Logged |
+| **NASA** | Spatial Recognition Achieved |
 
 ---
 
-### EXPERIENCE & CREDENTIALS
+### TIMELINE DATA
 
-* **Cybersecurity Internship** | *VOIS*
-* **Cyber Security Internship** | *Amroha Police (APCSIP 2025)*
-* **Diploma in Cyber Law** | *Asian School of Cyber Laws (ASCL)*
-* **50+ Verified Skill Badges** | *[Credly Platform](https://www.credly.com/users/guman-rajpurohit)*
+* **Iteration [ VOIS ]** | *Processing Phase*
+* **Iteration [ APCSIP 2025 ]** | *System Analysis*
+* **Iteration [ ASCL ]** | *Protocol Integration*
+* **[ 50+ Verified Markers ]** | *[Ledger Access](https://www.credly.com/users/guman-rajpurohit)*
 
 ---
 
-### TECHNICAL ARCHITECTURE
+### ACTIVE PROCESSES
 
-<br>
+**[ FaceHex ]**
+*Real-time spatial transformation and coordinate displacement matrix.*
+
+* **Environment:** Native dimensional framework.
+* **Execution:** AI-driven facial geometry mapping.
+* **Throughput:** Optimized ONNX runtime arrays for localized rendering.
+
+**[ Access Source ](https://github.com/Guman-Rajpurohit/FaceHex)**
+
+---
+
+### EXTERNAL RELAYS
 
 <div align="center">
 
-**Development & Environments**
-<br><br>
-![Programming Languages and Environments](https://skillicons.dev/icons?i=python,js,java,kotlin,html,css,bash,linux,git,github,vscode)
-
-<br><br>
-**Security Tooling**
-<br><br>
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](#)
-[![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=databricks&logoColor=white)](#)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](#)
-[![OWASP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)](#)
-[![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)](#)
-
-</div>
-
-<br>
-
----
-
-### FEATURED ENGINEERING
-
-**FaceHex**
-*Real-Time Face Swap Engine for Android powered by Computer Vision and Artificial Intelligence.*
-
-* **Infrastructure:** Native Android Application utilizing Material Design 3.
-* **Capabilities:** Real-Time Face Detection & AI Face Swapping.
-* **Processing:** High-efficiency ONNX Runtime Integration for optimized local performance.
-
-**[View FaceHex Repository](https://github.com/Guman-Rajpurohit/FaceHex)**
-
----
-
-### CONNECT & PLATFORMS
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guman-rajpurohit)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/Guman-Rajpurohit)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/guman-rajpurohit)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gumanrajpurohitt)
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://guman.qzz.io/)
-
-<br><br>
-
- *Security is a continuous process of learning, research, and ethical responsibility.*
+[![Alpha](https://img.shields.io/badge/Alpha-050505?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guman-rajpurohit)
+[![Beta](https://img.shields.io/badge/Beta-050505?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/Guman-Rajpurohit)
+[![Gamma](https://img.shields.io/badge/Gamma-050505?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/guman-rajpurohit)
+[![Delta](https://img.shields.io/badge/Delta-050505?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gumanrajpurohitt)
+[![Omega](https://img.shields.io/badge/Omega-050505?style=for-the-badge&logo=googlechrome&logoColor=white)](https://guman.qzz.io/)
 
 <br><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=2563EB&center=true&vCenter=true&width=850&lines=%3E_Initializing+security+protocols...;%3E_Executing+vulnerability+assessment...;%3E_Hunting+for+critical+exploits...;%3E_Advancing+secure+AI+architectures...;%3E_System+secured." alt="Terminal Typing Loop" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=2000&color=808080&center=true&vCenter=true&width=850&lines=Initializing+framework...;Awaiting+input...;Connection+established." alt="Terminal Typing Loop" />
 </div>
 <br><br>
-<br><br>
-<br><br>
-© 2026 Guman Rajpurohit
 </div>
